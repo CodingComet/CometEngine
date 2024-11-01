@@ -1,0 +1,4 @@
+vc140.pdb
+.vscode/
+build/
+main.cpp

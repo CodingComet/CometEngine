@@ -1,0 +1,1 @@
+void comet_setup();

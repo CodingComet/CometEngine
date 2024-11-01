@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - "-ICometEngine/vendor/glad/include"
+    - "-ICometEngine/vendor/glfw-3.4/include"
+    - "-ICometEngine/vendor/glm/include"
+    - "-ICometEngine/vendor/stb/include"
+    - "-std=c++20"
